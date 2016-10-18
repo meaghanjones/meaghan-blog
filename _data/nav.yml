@@ -1,4 +1,4 @@
 main:
     - { url: '/', text: 'Blog' }
-    - { url: 'www.meaghanjones.com/about', text: 'About' }
-    - { url: 'www.meaghanjones.com', text: 'Portfolio' }
+    - { url: 'https://www.meaghanjones.com/about', text: 'About' }
+    - { url: 'https://www.meaghanjones.com', text: 'Portfolio' }
